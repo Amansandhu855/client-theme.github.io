@@ -1,0 +1,12 @@
+/*
+ Theme Name: My Child Theme
+ Description: The custom theme My Child Theme using the parent theme Twenty Twenty.
+ Author: Tony Evans
+ Author URI: http://localhost/wordpress
+ Template: twentytwenty
+ Version: 1.0.0
+ */
+/* Custom widget area styles */
+.my_new_widget_area {
+    background-color: #cd2653;
+    }
